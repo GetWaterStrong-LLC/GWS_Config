@@ -1,8 +1,9 @@
 {
-  "name": "Our House of Hope Rescue",
-  "websiteUrl": "https://www.ourhouseofhoperescue.com/",
-  "imageUrl": "https://raw.githubusercontent.com/GetWaterStrong-LLC/GWS_Config/main/Beagle_Photo.jpg",
-  "description": "Our House of Hope Rescue is a wonderful organization that goes beyond simple animal rescue. They strive to build a caring and connected community where people and pets bring out the best in each other. Through their various outreach programs and partnerships, they create hope, healing, and connection for all.",
+  "spotlight": {
+    "name": "Our House of Hope Rescue",
+    "websiteUrl": "https://www.ourhouseofhoperescue.net/",
+    "imageUrl": "https://raw.githubusercontent.com/GetWaterStrong-LLC/GWS_Config/main/Beagle_Photo.jpg",
+      "description": "Our House of Hope Rescue is a wonderful organization that goes beyond simple animal rescue. They strive to build a caring and connected community where people and pets bring out the best in each other. Through their various outreach programs and partnerships, they create hope, healing, and connection for all.",
   "keyImpacts": [
     "Bringing seniors together for conversation and animal socialization through their Coffee & Cuddles program.",
     "Supporting domestic violence survivors by providing resources and temporary support for their pets through Bridge of Hope.",
@@ -10,5 +11,86 @@
     "Offering a safe and peaceful environment for families to train and bond with their dogs at the Center for Enrichment.",
     "Empowering the community through education on responsible pet ownership and animal welfare.",
     "Providing dedicated care and loving retirement homes for beagles retiring from research facilities."
+  ]
+  },
+  "waterBenefits": [
+    "Keeps the body at a normal temperature.",
+    "Lubricates and cushions joints, reducing pain and improving mobility.",
+    "Helps form saliva and mucus, which are essential for digestion.",
+    "Delivers oxygen throughout the body by maintaining blood volume.",
+    "Protects the spinal cord and other sensitive tissues.",
+    "Flushes out waste through urination, perspiration, and bowel movements.",
+    "Aids digestion and prevents constipation by helping food move.",
+    "Boosts skin health and appearance by maintaining its protective barrier.",
+    "Helps to maximize physical performance during exercise.",
+    "Significantly affects energy levels and brain function.",
+    "May help prevent and treat headaches, as dehydration is a common trigger.",
+    "Assists in weight management by increasing a sense of fullness.",
+    "Helps to prevent kidney stones and other kidney damage.",
+    "Aids in the absorption of nutrients and minerals.",
+    "Supports a healthy immune system by helping to carry nutrients.",
+    "May help to maintain blood pressure by regulating blood volume."
+  ],
+  "monthlyFacts": [
+    {
+      "fact": "Globally, at least 2 billion people use a drinking water source contaminated with feces.",
+      "citation": "World Health Organization (2022)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/drinking-water"
+    },
+    {
+      "fact": "The ocean produces more than 50 percent of the oxygen on Earth.",
+      "citation": "NOAA",
+      "url": "https://oceanexplorer.noaa.gov/facts/ocean-climate.html"
+    },
+    {
+      "fact": "Less than 1% of the water on Earth is fresh and accessible.",
+      "citation": "U.S. Geological Survey (USGS)",
+      "url": "https://www.usgs.gov/special-topics/water-science-school/science/fundamentals-water-cycle"
+    },
+    {
+      "fact": "Over 80% of wastewater is discharged without any pollution removal.",
+      "citation": "UN Water",
+      "url": "https://www.unwater.org/water-facts/wastewater"
+    },
+    {
+      "fact": "Agriculture is the largest consumer of water, accounting for 70% of total global freshwater withdrawals.",
+      "citation": "The World Bank",
+      "url": "https://www.worldbank.org/en/topic/water-in-agriculture"
+    },
+    {
+      "fact": "The deep sea is the largest habitat on Earth, yet less than 5% of it has been explored by humans.",
+      "citation": "National Geographic",
+      "url": "https://education.nationalgeographic.org/resource/deep-sea/"
+    },
+    {
+      "fact": "By 2025, half of the world’s population will be living in water-stressed areas.",
+      "citation": "World Health Organization (2022)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/drinking-water"
+    },
+    {
+      "fact": "Up to 12.7 million metric tons of plastic waste enters the ocean each year.",
+      "citation": "IUCN",
+      "url": "https://www.iucn.org/resources/issue-brief/marine-plastics"
+    },
+    {
+      "fact": "Groundwater provides almost half of all drinking water worldwide.",
+      "citation": "UN Water",
+      "url": "https://www.unwater.org/water-facts/groundwater"
+    },
+    {
+      "fact": "Ocean acidification, caused by the uptake of CO2, is threatening marine ecosystems.",
+      "citation": "NOAA",
+      "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification"
+    },
+    {
+      "fact": "Water-related disasters account for 70 per cent of all natural disaster deaths.",
+      "citation": "World Meteorological Organization (WMO)",
+      "url": "https://library.wmo.int/doc_num.php?explnum_id=10969"
+    },
+    {
+      "fact": "Just 10 rivers are responsible for transporting more than 90% of the plastic waste that ends up in the oceans.",
+      "citation": "Helmholtz Centre for Environmental Research",
+      "url": "https://www.ufz.de/index.php?en=36336&webc_pm=36/2017"
+    }
   ]
 }
