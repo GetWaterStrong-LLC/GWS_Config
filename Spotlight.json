@@ -1,5 +1,5 @@
 {  
-  "version":2,
+  "version":3,
   "spotlight": {
     "name": "Our House of Hope Rescue",
     "websiteUrl": "https://www.ourhouseofhoperescue.com/",
@@ -14,6 +14,12 @@
     "Providing dedicated care and loving retirement homes for beagles retiring from research facilities."
   ]
   },
+  
+  "previousSpotlights": [
+    { "name": "TBD", "websiteUrl": "https://get-water-strong.square.site/" },
+    { "name": "TBD", "websiteUrl": "https://get-water-strong.square.site/" }
+  ],
+  
   "waterBenefits": [
     "Keeps the body at a normal temperature.",
     "Lubricates and cushions joints, reducing pain and improving mobility.",
@@ -32,6 +38,7 @@
     "Supports a healthy immune system by helping to carry nutrients.",
     "May help to maintain blood pressure by regulating blood volume."
   ],
+  
   "monthlyFacts": [
     {
       "fact": "Globally, at least 2 billion people use a drinking water source contaminated with feces.",
@@ -95,5 +102,6 @@
     }
   ]
 }
+
 
 
