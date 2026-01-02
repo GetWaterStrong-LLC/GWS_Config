@@ -1,8 +1,8 @@
 {  
-  "version":1,
+  "version":2,
   "spotlight": {
     "name": "Our House of Hope Rescue",
-    "websiteUrl": "https://www.ourhouseofhoperescue.net/",
+    "websiteUrl": "https://www.ourhouseofhoperescue.com/",
     "imageUrl": "https://raw.githubusercontent.com/GetWaterStrong-LLC/GWS_Config/main/Beagle_Photo.jpg",
       "description": "Our House of Hope Rescue is a wonderful organization that goes beyond simple animal rescue. They strive to build a caring and connected community where people and pets bring out the best in each other. Through their various outreach programs and partnerships, they create hope, healing, and connection for all.",
   "keyImpacts": [
@@ -95,4 +95,5 @@
     }
   ]
 }
+
 
