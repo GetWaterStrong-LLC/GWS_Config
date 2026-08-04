@@ -1,5 +1,9 @@
 {  
   "version":3,
+  "androidVersion": "1.0.0",
+  "androidBuildNumber": 37,
+  "iosVersion": "1.0.0",
+  "iosBuildNumber": 37,
   "spotlight": {
     "name": "Our House of Hope Rescue",
     "websiteUrl": "https://www.ourhouseofhoperescue.com/",
