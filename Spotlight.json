@@ -1,7 +1,7 @@
 {  
-  "version":5,
+  "version":6,
   "androidVersion": "1.0.0",
-  "androidBuildNumber": 37,
+  "androidBuildNumber": 38,
   "iosVersion": "1.0.0",
   "iosBuildNumber": 37,
   "spotlight": {
