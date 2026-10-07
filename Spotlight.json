@@ -1,5 +1,5 @@
 {  
-  "version":7,
+  "version":8,
   "androidVersion": "1.0.0",
   "androidBuildNumber": 39,
   "iosVersion": "1.0.0",
@@ -104,7 +104,18 @@
       "citation": "Helmholtz Centre for Environmental Research",
       "url": "https://www.ufz.de/index.php?en=36336&webc_pm=36/2017"
     }
-  ]
+  ],
+  
+  "messages": [
+      {
+        "id": "2026_10_04 beta-thanks-oct-2026",
+        "title": "Thank You, Beta Testers!",
+        "body": "We're moving to production soon, your feedback via the survey in the app settings is appreciated!",
+        "severity": "info",
+        "minBuildNumber": 30,
+        "maxBuildNumber": 60
+      }
+    ]
 }
 
 
