@@ -1,5 +1,5 @@
 {  
-  "version":10,
+  "version":11,
   "androidVersion": "1.0.0",
   "androidBuildNumber": 39,
   "iosVersion": "1.0.0",
@@ -118,7 +118,7 @@
         "maxBuildNumber": 60
       },
       {
-        "id": "2026_10_04b beta-thanks-oct-2026",
+        "id": "2026_10_05 beta-thanks-oct-2026",
         "title": "Thank You, Beta Testers!",
         "body": "FREE for Beta testers: NEW GWS Tags that are even easier to scan! We're moving to production soon, so if you want a free tag upgrade provide your address in the beta survey!",
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSdxEuomr7Sgov-5mZytZ4wkvYUHc9ErNhkg3FfBNMhtd3EnHw/viewform",
