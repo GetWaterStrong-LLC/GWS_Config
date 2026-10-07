@@ -1,5 +1,5 @@
 {  
-  "version":8,
+  "version":9,
   "androidVersion": "1.0.0",
   "androidBuildNumber": 39,
   "iosVersion": "1.0.0",
@@ -108,9 +108,11 @@
   
   "messages": [
       {
-        "id": "2026_10_04 beta-thanks-oct-2026",
+        "id": "2026_10_04b beta-thanks-oct-2026",
         "title": "Thank You, Beta Testers!",
         "body": "We're moving to production soon, your feedback via the survey in the app settings is appreciated!",
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSdxEuomr7Sgov-5mZytZ4wkvYUHc9ErNhkg3FfBNMhtd3EnHw/viewform",
+        "linkText": "Survey Link",
         "severity": "info",
         "minBuildNumber": 30,
         "maxBuildNumber": 60
