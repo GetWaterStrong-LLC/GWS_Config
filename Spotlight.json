@@ -1,5 +1,5 @@
 {  
-  "version":12,
+  "version":13,
   "androidVersion": "1.0.0",
   "androidBuildNumber": 41,
   "iosVersion": "1.0.0",
@@ -108,14 +108,12 @@
   
   "messages": [
       {
-        "id": "2026_10_04b beta-thanks-oct-2026",
-        "title": "Thank You, Beta Testers!",
-        "body": "We're moving to production soon, your feedback via the survey in the app settings is appreciated!",
-        "link": "https://docs.google.com/forms/d/e/1FAIpQLSdxEuomr7Sgov-5mZytZ4wkvYUHc9ErNhkg3FfBNMhtd3EnHw/viewform",
-        "linkText": "Survey Link",
-        "severity": "info",
-        "minBuildNumber": 30,
-        "maxBuildNumber": 39
+        "id": "goal-reset-bug-2026-10",
+        "title": "Known Issue: Daily Goal Resetting",
+        "body": "We're aware your daily goal may reset to 24oz after the app restarts. Your goal and water logs are saved safely, they just aren't showing. A fix is on the way! For now, tap your goal to set it again. Thanks for your patience!",
+        "severity": "warning",
+        "minBuildNumber": 43,
+        "maxBuildNumber": 44
       },
       {
         "id": "2026_10_19 TagUpgrade1",
