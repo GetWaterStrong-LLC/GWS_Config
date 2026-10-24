@@ -1,5 +1,5 @@
 {  
-  "version":13,
+  "version":14,
   "androidVersion": "1.0.0",
   "androidBuildNumber": 41,
   "iosVersion": "1.0.0",
@@ -112,8 +112,8 @@
         "title": "Known Issue: Daily Goal Resetting",
         "body": "We're aware your daily goal may reset to 24oz after the app restarts. Your goal and water logs are saved safely, they just aren't showing. A fix is on the way! For now, tap your goal to set it again. Thanks for your patience!",
         "severity": "warning",
-        "minBuildNumber": 43,
-        "maxBuildNumber": 44
+        "minBuildNumber": 42,
+        "maxBuildNumber": 43
       },
       {
         "id": "2026_10_19 TagUpgrade1",
