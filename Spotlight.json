@@ -1,5 +1,5 @@
 {  
-  "version":16,
+  "version":17,
   "androidVersion": "1.0.0",
   "androidBuildNumber": 45,
   "iosVersion": "1.0.0",
@@ -95,11 +95,6 @@
       "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification"
     },
     {
-      "fact": "Water-related disasters account for 70 per cent of all natural disaster deaths.",
-      "citation": "World Meteorological Organization (WMO)",
-      "url": "https://library.wmo.int/"
-    },
-    {
       "fact": "Just 10 rivers are responsible for transporting more than 90% of the plastic waste that ends up in the oceans.",
       "citation": "Helmholtz Centre for Environmental Research",
       "url": "https://www.ufz.de/index.php?en=34208"
@@ -118,7 +113,7 @@
       {
         "id": "2026_10_19 TagUpgrade1",
         "title": "Free Tag Upgrade!",
-        "body": "NEW GWS Tags are ready and easier to scan! We're moving to production soon, if you want a free tag upgrade please complete the survey (ok to respond again if you already did previously)!",
+        "body": "NEW GWS Tags are ready and easier to scan! We're launching soon, if you want a free tag upgrade please complete the survey (ok to respond again if you already did previously)!",
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSdxEuomr7Sgov-5mZytZ4wkvYUHc9ErNhkg3FfBNMhtd3EnHw/viewform",
         "linkText": "Survey Link",
         "severity": "info",
