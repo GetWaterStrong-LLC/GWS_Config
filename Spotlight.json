@@ -1,5 +1,5 @@
 {  
-  "version":17,
+  "version":18,
   "androidVersion": "1.0.0",
   "androidBuildNumber": 45,
   "iosVersion": "1.0.0",
@@ -118,7 +118,7 @@
         "linkText": "Survey Link",
         "severity": "info",
         "minBuildNumber": 30,
-        "maxBuildNumber": 60
+        "maxBuildNumber": 43
       }
     ]
 }
