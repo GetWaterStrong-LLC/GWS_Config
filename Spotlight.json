@@ -1,5 +1,5 @@
 {  
-  "version":19,
+  "version":20,
   "androidVersion": "1.0.0",
   "androidBuildNumber": 47,
   "iosVersion": "1.0.0",
@@ -99,7 +99,27 @@
       "citation": "Helmholtz Centre for Environmental Research",
       "url": "https://www.ufz.de/index.php?en=34208"
     }
-  ],
+    ],
+  
+    "_messagesHelp": [
+      "=== HOW TO USE 'messages' (this key is ignored by the app) ===",
+      "Each message is an object in the 'messages' array. Required: id, title, body. Everything else is optional.",
+      "id: unique string. Changing the id makes the message 'new' again (re-shows the unread badge).",
+      "title / body: text shown to the user.",
+      "link / linkText: optional button. link = URL to open, linkText = button label.",
+      "severity: 'info' (default) or 'warning'.",
+      "minBuildNumber: show only on builds >= this number (inclusive). Omit = no lower limit.",
+      "maxBuildNumber: show only on builds <= this number (inclusive). Omit = no upper limit.",
+      "expiresAfter: date 'YYYY-MM-DD'. Hidden after this date. Invalid date = message never shows.",
+      "platform: 'ios' or 'android' (not case-sensitive). Omit = all platforms. Any other value = never shown.",
+      "!! platform only works on build 50 and newer. Builds 49 and older IGNORE it and show the message on BOTH platforms.",
+      "!! To reach older builds, use neutral wording + maxBuildNumber: 49 instead of platform.",
+      "All conditions must pass for a message to show. Messages never show if the app can't read its own build number.",
+      "Build numbers: odd = Android, even = iOS (since build 45). Builds 44 and earlier went to both platforms.",
+      "TestFlight vs App Store users on the same build number cannot be told apart.",
+      "Example (iOS only, build 50+): {\"id\":\"ios-tip-1\",\"title\":\"Tip\",\"body\":\"...\",\"platform\":\"ios\",\"minBuildNumber\":50}",
+      "Example (TestFlight migration, all old builds): {\"id\":\"v101-available\",\"title\":\"Version 1.0.1 is here!\",\"body\":\"...\",\"link\":\"https://apps.apple.com/app/id6763444372\",\"linkText\":\"Open App Store\",\"maxBuildNumber\":49,\"expiresAfter\":\"2027-01-31\"}"
+    ],
   
   "messages": [
       {
