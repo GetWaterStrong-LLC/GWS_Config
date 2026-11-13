@@ -1,5 +1,5 @@
 {  
-  "version":21,
+  "version":22,
   "androidVersion": "1.0.1",
   "androidBuildNumber": 51,
   "iosVersion": "1.0.1",
@@ -131,9 +131,9 @@
         "maxBuildNumber": 43
       },
       {
-      "id": "release_1_0_1_thank_you",
+      "id": "release_1_0_1_thank_you2",
       "title": "Thank You, Founding Testers! 💧",
-      "body": "Get Water Strong 1.0.1 is now live on the App Store(s)! Thank you for testing early versions and for all your feedback. You helped shape this app and we're truly greatful. To move to the official version:\n1. Back up data (just incase): GWS Settings → Data Management → Backup Data.\n2. iPhone: install Get Water Strong from the official App Store. It replaces the pre-release version.\n3. Please leave a review in the app store.\n\nQuestions? Email photos@GetWaterStrong.com.",
+      "body": "Get Water Strong 1.0.1 is now live on the App Store(s)! Thank you for testing early versions and for all your feedback. You helped shape this app and we're truly greatful. To move to the official version:\n1. Back up data (just incase): GWS Settings → Data Management → Backup Data.\n2. Install Get Water Strong from the official App Store. It replaces the pre-release version.\n3. Please leave a review in the app store.\n\nQuestions? Email photos@GetWaterStrong.com.",
       "severity": "announcement",
       "maxBuildNumber": 49,
       "expiresAfter": "2026-12-31"
